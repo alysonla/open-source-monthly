@@ -34,6 +34,10 @@ Last, you can pick more than one org to compare activity.
 
 This dashboard was built using [Tableau](http://www.tableau.com/) & is hosted for free on [Tableau Public](https://public.tableau.com/s/) (like GitHub.com but for data analysts). Hosting is limited to 10M rows & this filtered data set came to ~6M rows. Data is pulled using the Tableau / Google BigQuery native connector.
 
+### Glossary
+
+Click [here](https://docs.google.com/spreadsheets/d/11nuCoX39ezNzlM3_Mz_gG14R82AnMR8de-oD4P9LclM/edit#gid=0&vpid=A2) for a glossary of terms.
+
 ### Resources
 
 * [Google BigQuery Tutorial](https://www.thinkful.com/learn/google-bigquery-tutorial/)
